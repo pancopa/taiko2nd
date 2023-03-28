@@ -1,0 +1,7 @@
+{
+  "name":"taiko pancopa NFT",
+  "description":"taiko pancopa NFT",
+  "image":"https://pancopa.github.io/taiko2nd/metadata/0.png",
+  "edition":0,
+  "attributes":[{"trait_type":"topping","value":"cherry"}, {"trait_type":"background","value":"yellow"}]
+}
